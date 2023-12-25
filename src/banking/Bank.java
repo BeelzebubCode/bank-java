@@ -3,7 +3,7 @@ package banking;
 import java.util.ArrayList;
 
 public class Bank {
-    //เก็บทุกบัญชีที่สมัครสำเร็จไว้ที่
+    //เก็บทุกบัญชีที่สมัครสำเร็จไว้ที่ accounts
     private ArrayList<Account> accounts = new ArrayList<>();
 
     //เพิ่มบัญชีใหม่
